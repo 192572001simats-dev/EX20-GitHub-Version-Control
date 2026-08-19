@@ -1,1 +1,1 @@
-# EX20-GitHub-Version-Control
+This project demonstrates GitHub version control for a team.
